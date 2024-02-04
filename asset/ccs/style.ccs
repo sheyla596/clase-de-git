@@ -1,0 +1,9 @@
+h1{
+    color: red;
+    font-size: 24 px;
+}
+
+.footer {
+    text-align: center;
+    color: red;
+}
